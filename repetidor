@@ -8,6 +8,6 @@
 </head>
 <body>
     <p>A página será atualizada automaticamente a cada 5 segundos:</p>
-    <iframe src="https://www.instagram.com/reel/C51NBxGAKpU/" width="500" height="600" frameborder="0"></iframe>
+    <iframe src="https://www.instagram.com/reel/C51NBxGAKpU" width="500" height="600" frameborder="0"></iframe>
 </body>
 </html>
